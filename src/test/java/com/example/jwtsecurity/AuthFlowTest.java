@@ -1,4 +1,3 @@
-// src/test/java/com/example/jwtsecurity/AuthFlowTest.java
 package com.example.jwtsecurity;
 
 import java.util.Map;
